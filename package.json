@@ -1,0 +1,19 @@
+{
+  "name": "atm-ibrahim",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "atm": "atm-ibrahim.js"
+  },
+  "main": "atm-ibrahim.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ibrahim",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "typescript": "^5.4.5"
+  }
+}
